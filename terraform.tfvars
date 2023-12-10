@@ -1,3 +1,3 @@
 parameters = {
-  "docudb-dev.master_username" = { type = "string", value = "docudbadmin"}
+  "docudb-dev.master_username" = { type = "String", value = "docudbadmin"}
 }
